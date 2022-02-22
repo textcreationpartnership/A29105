@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The qualifications requisite, towards the receiving a divine revelation a sermon preach'd in the Cathedral Church of St. Paul, January the 2d, 1698/9, being the first, for this year, of the lectures founded by the Honourable Robert Boyle, Esq. / by Samuel Bradford ...</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29105</idno>
+            <idno type="STC">Wing B4118</idno>
+            <idno type="STC">ESTC R19718</idno>
+            <idno type="EEBO-CITATION">12115740</idno>
+            <idno type="OCLC">ocm 12115740</idno>
+            <idno type="VID">54294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The qualifications requisite, towards the receiving a divine revelation a sermon preach'd in the Cathedral Church of St. Paul, January the 2d, 1698/9, being the first, for this year, of the lectures founded by the Honourable Robert Boyle, Esq. / by Samuel Bradford ...</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Messiahship --  Sermons.</term>
+               <term>Bible. --  N.T. --  John VI, 45 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54294:1"/>
+            <pb facs="tcp:54294:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Qualifications requiſite, towards the Receiving a Divine Revelation.</hi> A SERMON Preach'd in the Cathedral Church of St. <hi>PA<g ref="char:V">Ʋ</g>L; January</hi> the 2d. 1698/9. Being the Firſt, for this Year, of the Lecture, Founded by the Honourable <hi>Robert Boyle,</hi> Eſq; By <hi>SAMUEL BRADFORD,</hi> M. A. Rector of St. <hi>Mary le Bow.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurst,</hi> at the Three <hi>Crowns</hi> and <hi>Bible</hi> in <hi>Cheapſide,</hi> near <hi>Mercers Chappel,</hi> 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:54294:2"/>
+            <pb facs="tcp:54294:2"/>
+            <head>TO THE Moſt Reverend Father in God,
+<list>
+                  <item>
+                     <hi>Thomas</hi> Lord Archbiſhop of <hi>Canterbury;</hi>
+                  </item>
+                  <item>Sir <hi>Henry Aſhhurſt,</hi> Baronet;</item>
+                  <item>Sir <hi>John Rotherham,</hi> Serjeant at Law;</item>
+                  <item>
+                     <hi>John Evelyn</hi> Senior, Eſq;</item>
+               </list> Truſtees appointed by the Will of the Honourable <hi>Robert Boyle</hi> Eſq;</head>
+            <opener>
+               <salute>Moſt Reverend and Honoured,</salute>
+            </opener>
+            <p>I Humbly preſent to you <hi>this,</hi> with the following Diſcourſes, which I Publiſh in Obedience to your Order, and with my thankful acknowledgment of the Honour you have done me, in appointing me your Lecturer for the Year enſuing.</p>
+            <p>The beſt way of eſtabliſhing any Truth is, by mak<g ref="char:EOLhyphen"/>ing a fair and juſt Repreſentation of it, <hi>Truth</hi> being to the <hi>Mind,</hi> what <hi>Light</hi> is to the <hi>Eye,</hi> al<g ref="char:EOLhyphen"/>ways diſcernable, where there is no defect in the Organ. My deſign therefore is, to endeavour ſo to repreſent
+<pb facs="tcp:54294:3"/>the Chriſtian Revelation, that it may appear by it's own Light, and by that means, as far as may be, to prevent Objections, before they are rais'd. And be<g ref="char:EOLhyphen"/>cauſe I am fully perſwaded, that the true Cauſe of Infidelity, where the Goſpel is publiſh'd, is ſome vi<g ref="char:EOLhyphen"/>tious Indiſpoſition in the Minds of men, I thought it expedient to begin with laying down the Qualifica<g ref="char:EOLhyphen"/>tions, which are neceſſary for ſuch Perſons, as ſhall concern themſelves about this Subject.</p>
+            <p>I am very ſenſible of my want of Ability, propor<g ref="char:EOLhyphen"/>tionable to this <g ref="char:V">Ʋ</g>ndertaking: but I humbly beſeech that God and Saviour, in whoſe Cauſe I am engag'd, to enable me in ſome meaſure to promote the pious and generous Deſign of our <hi>Honourable Founder,</hi> a Perſon who convinc'd the World, that Chriſtianity is conſiſtent with excellent natural Parts, and great Learning; as well as with noble Birth, and good Breeding. After this I have nothing farther to do, but to rely upon that Goodneſs which ſo freely employ'd me, favourably to interpret the Endeavours of,</p>
+            <closer>
+               <salute>Moſt Reverend and Honoured,</salute>
+               <signed>
+                  <hi>Your moſt obliged and humble Servant,</hi> Samuel Bradford.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:54294:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOHN vj. 45.</hi>
+                  </bibl>
+                  <p>It is written in the Prophets, And they ſhall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.</p>
+               </q>
+            </epigraph>
+            <p>THE Honourable Founder of theſe Lectures having appointed them for proving the Chriſtian Religion againſt notorious In<g ref="char:EOLhyphen"/>fidels, <hi>viz.</hi> Atheiſts, Deiſts, Pagans, Jews, and Mahometans, my deſign is, by God's Aſſiſtance, to direct my following Diſcourſes prin<g ref="char:EOLhyphen"/>cipally againſt the ſecond ſort of theſe Adverſaries to our Profeſſion, the <hi>Deiſts</hi> I mean, properly ſo call'd, thoſe who are not ſunk ſo much below humane Nature, as to call into queſtion the Au<g ref="char:EOLhyphen"/>thor of their Beings, or to deny that Providence by which the World is govern'd, and themſelves and all things in it preſerv'd and taken care of: but yet pretend to disbelieve, or at leaſt doubt concern<g ref="char:EOLhyphen"/>ing the Chriſtian Revelation.</p>
+            <p>It muſt needs ſeem ſtrange to thoſe who are throughly convinc'd of the Trutho of Chriſtianity, and diſcern very plain and ſtrong Evidence for the
+<pb n="2" facs="tcp:54294:4"/>confirmation of their Faith in all the parts of it, that there ſhould be any, who being educated where this Religion is profeſs'd, ſhould either re<g ref="char:EOLhyphen"/>main or become Infidels; eſpecially if at the ſame time they ſeriouſly own the Principles of <hi>natural</hi> Religion, to which thoſe of <hi>reveal'd</hi> are ſo very agreeable.</p>
+            <p>How far ſuch men are in good earneſt, is beſt known to God, and to their own Conſciences: but if there be any ſuch, 'tis certainly worth the while to convince them; and I ſhould hope it would be no great difficulty to do it, provided they may be prevail'd upon to do what is abſo<g ref="char:EOLhyphen"/>lutely neceſſary, and highly reaſonable on their part, in order to their receiving and owning ſuch conviction.</p>
+            <p>For which reaſon I have choſen to begin with theſe Words, wherein we are inform'd by our Lord himſelf, what ſort of Perſons thoſe are, who are qualified for receiving him and his Doctrine, <hi>viz.</hi> ſuch as <hi>are taught of God,</hi> ſuch as <hi>have heard and learn'd of the Father.</hi>
+            </p>
+            <p>The occaſion of the Words was this. Our bleſſed Saviour had been ſaying,
+<note place="margin">Ver. 38,</note> that <hi>He came down from Heaven;</hi> at this ſome of the <hi>Jews murmur'd,</hi> ſaying,
+<note place="margin" type="runSum">41,</note>
+               <hi>Is not this Jeſus the ſon of Joſeph, whoſe Father and Mother we know?</hi>
+               <note place="margin" type="runSum">42,</note>
+               <hi>How is it then that he ſaith, I came down from Heaven?</hi> To which our Lord reply'd, not by propoſing at that time any Arguments to convince them, that he really did
+<pb n="3" facs="tcp:54294:4"/>come down from Heaven; but by hinting to them the true cauſe of their unbelief, and letting them underſtand, that conſidering their temper, which he very well knew,
+<note place="margin">Ver. 43, 44.</note> he was not at all ſurpris'd at their rejecting him. <hi>Murmur not,</hi> ſaith he, <hi>among your ſelves. No man can come to me, except the Fa<g ref="char:EOLhyphen"/>ther, which hath ſent me, draw him.</hi> But may not <hi>the Father draw</hi> men, and they not follow him? Yes certainly,
+<note place="margin">Ezek. 24.13.</note> as well as he might be ſaid to <hi>have purged Iſrael,</hi> and yet that <hi>Iſrael was not purged;</hi> and therefore it follows in the next Words, <hi>It is written in the Prophets, And they ſhall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.</hi>
+            </p>
+            <p>
+               <hi>It is written in the Prophets,</hi> that is, this is a Prediction you may find in divers places in the Books of the Prophets, in the Old Teſtament; <hi>They ſhall be all taught of God,</hi> that is, in the days of the Meſſiah, the World ſhall be bleſt with more plentiful Inſtruction from Heaven, there ſhall be a greater meaſure of Divine Knowledge imparted by God to Mankind, together with a larger Effuſion of the Divine Spirit upon the Mem<g ref="char:EOLhyphen"/>bers of God's Church, whereby they ſhall be taught the Will of God more plainly and fully, than in times paſt. Particularly the Prophet <hi>Iſaiah,</hi> fore<g ref="char:EOLhyphen"/>telling the ſtate of the Church in the days of the Meſſiah, hath theſe very words which our Lord citeth, <hi>All thy children ſhall be taught of the Lord.</hi>
+               <note place="margin">Iſa. 54.13.</note>
+            </p>
+            <p>
+               <hi>Every man therefore that hath heard, and hath learn'd of the Father, cometh unto me;</hi> as if he
+<pb n="4" facs="tcp:54294:5"/>had ſaid, Whoſoever therefore will come unto me, that is, receive me for the Meſſiah, and acknow<g ref="char:EOLhyphen"/>ledge my Doctrine to be of God, muſt be <hi>taught of God,</hi> according to the prediction of the Pro<g ref="char:EOLhyphen"/>phets; and on his part he muſt both <hi>hear and learn of the Father,</hi> he muſt attend, that is, to his Inſtructions, and comply with them. For if he ſhall refuſe to <hi>hear the Father,</hi> he can never acknowledge me, who came from him: but if he will <hi>hear and learn</hi> of him, and conſequently be <hi>taught</hi> by him, he will readily <hi>come to me</hi> alſo.</p>
+            <p>So that the Words contain, as I have already obſerv'd, the Character of thoſe Perſons, who are qualified and diſpos'd to receive the Chriſtian Do<g ref="char:EOLhyphen"/>ctrine, when it is publiſh'd to them.</p>
+            <p>And this I judge a proper Argument to begin with. For ſhould I be able to produce never ſo convincing proofs of the Truth of Chriſtianity; yet if thoſe who hear me ſhould be utterly in<g ref="char:EOLhyphen"/>diſpos'd to conſider and receive them, all my diſcourſe muſt be neceſſarily loſt upon ſuch men. And therefore 'tis remarkable, that our Saviour, in divers other places as well as this, doth aſcribe the Infidelity of his Hearers to the Indiſpoſition of their Minds, as the true cauſe of it; and that too an Indiſpoſition proceeding from ſome fault either in their Tempers or Practices: as on the contrary he declareth who were in a fair way to become his Diſciples, namely, ſuch as were of a Temper capable of conſidering and receiving Truth, when it ſhould be propos'd to them. Thus,
+<note place="margin">Joh. 8.47.</note> 
+               <hi>He that is of God, heareth God's words: ye therefore hear them not, becauſe ye are not of God.</hi>
+               <pb n="5" facs="tcp:54294:5"/>And again, <hi>To this end was I born,</hi>
+               <note place="margin">Joh. 18.37.</note> 
+               <hi>and for this cauſe came I into world, that I might bear witneſs to the Truth. Every one that is of the Truth heareth my Voice.</hi>
+            </p>
+            <p>Neither is this aſſerted by our Lord, without evident Reaſon, as will appear to any one, who conſiders this matter fairly.</p>
+            <p>Chriſtianity lays it's claim to a Divine Origi<g ref="char:EOLhyphen"/>nal. Both our Lord himſelf, and all who call themſelves his Diſciples, affirm that it is a Reve<g ref="char:EOLhyphen"/>lation from God. The Adverſaries of this Reli<g ref="char:EOLhyphen"/>ligion ſay on the contrary, that it is the Product of Superſtition or Deſign, and conſequently that both its Original and Progreſs are wholy owing to humane Weakneſs, or Policy, that is, Wick<g ref="char:EOLhyphen"/>edneſs; (for ſuch would a Policy to invent and propagate a falſe Religion, and thereby to impoſe upon the Underſtandings and Conſciences of men, be juſtly reputed.) How then muſt this Con<g ref="char:EOLhyphen"/>troverſie be decided? Why by ſuch Evidence as a matter of this nature is capable of; by ſuch Proofs as are fit to be alleged for the truth of a Divine Revelation, and proper to convince the judgment of a reaſonable Creature. But who ſhall Judge of this Evidence? Why every man muſt be al<g ref="char:EOLhyphen"/>low'd to judge for himſelf, and every man to whom ſuch Evidence is propos'd, is without que<g ref="char:EOLhyphen"/>ſtion oblig'd, at his utmoſt peril, to judge impar<g ref="char:EOLhyphen"/>tially. But the Man that is ignorant of Almighty God, or eſtranged from him, eſpecially whoſo<g ref="char:EOLhyphen"/>ever is an Enemy to God, as being of a diſpoſi<g ref="char:EOLhyphen"/>tion and temper oppoſite to that of the Divine Nature, muſt neceſſarily be unfit to judge of this
+<pb n="6" facs="tcp:54294:6"/>kind of Evidence. If this Religion ſhould prove to be divinely reveal'd, as it pretends, ſuch a man would probably think it his Intereſt, to be ſure it would be his Inclination, to make all the Objections, and to raiſe all the Cavils, that he could poſſibly invent, to invalidate the Proofs of it. At leaſt he would not eaſily, nor clear<g ref="char:EOLhyphen"/>ly diſcern the force of the Arguments alleged for it.</p>
+            <p>Whereas on the other hand, Whoſoever hath been <hi>taught of God,</hi> whoſoever hath <hi>heard, and learn'd of the Father,</hi> whoſoever hath attain'd to right conceptions of him, and is reconcil'd in his Mind to him, ſuch a Man is well prepar'd to attend to whatſoever it ſhall pleaſe God far<g ref="char:EOLhyphen"/>ther to make known to him, he will eaſily and clearly diſcern the force of any good Evidence which ſhall be produc'd for a Revelation which is truly Divine, and will be naturally ready and forward to embrace it.</p>
+            <p>But to come to the Words themſelves, in treat<g ref="char:EOLhyphen"/>ing of which, it will be proper to conſider theſe <hi>three</hi> particulars.</p>
+            <p>In what way and manner <hi>God</hi> may be ſaid <hi>to teach</hi> Men,
+<milestone type="tcpmilestone" unit="unspecified" n="I"/> in order to their receiving any new Revelation from him.</p>
+            <p>Who they are,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/> that may be ſaid <hi>to have heard, and learn'd of the Father,</hi> in order to the ſame end.</p>
+            <p>What Qualifications are requiſite both to the <hi>hearing and learning of the Father,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> and <hi>coming to the Son.</hi>
+            </p>
+            <pb n="7" facs="tcp:54294:6"/>
+            <p>Let us conſider in what way and manner <hi>God</hi> may be ſaid <hi>to teach</hi> Men,
+<milestone type="tcpmilestone" unit="unspecified" n="I"/> in order to their re<g ref="char:EOLhyphen"/>ceiving any new Revelation from him. <hi>It is writ<g ref="char:EOLhyphen"/>ten in the Prophets, They ſhall be all taught of God.</hi>
+            </p>
+            <p>The <hi>teaching of God</hi> which the Prophets, and particularly <hi>Iſaiah,</hi> in the place before-cited, re<g ref="char:EOLhyphen"/>fers to, ſeems, as I have already hinted, to be that more plain and plentiful Inſtruction, which was to be communicated to Men, in the days of the Meſſiah. But our Saviour, in applying this Prophecy, ſeems alſo to take in all that previous <hi>Teaching of God,</hi> whereby he had prepar'd Men for the receiving him, when he ſhould come. For the ſame God, who by his Providence had reſerv'd ſo large a communication of Divine Knowledge, for the times of the Meſſiah, had from one Generation to another, been diſpoſing the World for ſuch farther communications as he ſhould think proper for it; not having in any age or place, <hi>left men without witneſs of himſelf.</hi> It may be reaſonable therefore upon this occaſion, to conſider the ſeveral ways, in which men might be ſaid to be <hi>taught of God,</hi> in order to their re<g ref="char:EOLhyphen"/>ceiving any farther Revelation from him. And I ſhall name theſe <hi>four.</hi>
+            </p>
+            <p>Men were <hi>taught of God,</hi> in order to this end,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> by the Works of Creation and Providence.</p>
+            <p>By the Suggeſtions and Dictates of their own Conſciences.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+            </p>
+            <p>By ſome extraordinary, Perſons raiſed up by Providence,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> and qualified to teach others.</p>
+            <pb n="8" facs="tcp:54294:7"/>
+            <p>By the ſecret Motions and Influences of the Divine Spirit upon the Minds of Men.
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+            </p>
+            <p>I ſhall only take a ſhort view of each of theſe.</p>
+            <p>Men may be ſaid to have been <hi>taught of God,</hi> by the Works of Creation and Providence.</p>
+            <p>From that vaſt number of Beings, which have been form'd by God, their Variety, Excellency, Beauty, and Order, together with the conſtant care he taketh of all that he hath form'd, and the abundant Proviſion he hath made for every Being, ſuitable to it's Nature there are plain Intimations and Inſtructions given by the Deity, to thoſe Creatures whom he hath made capable of obſerving and contemplating his Works. And this I may take for granted, without any far<g ref="char:EOLhyphen"/>ther proof, will be allow'd by thoſe, for whoſe uſe I principally deſign my following Diſcourſes, ſuch I mean as ſeriouſly own the Being and the Providence of the Almighty. And I need not labor to expreſs my ſelf farther upon this head, than in the Words of the Pſalmiſt, which a Deiſt will ſubſcribe to as true, though not as ſpoken by an inſpired Author.
+<note place="margin">Pſal. 10.1,</note> 
+               <hi>The Heavens declare the Glo<g ref="char:EOLhyphen"/>ry of God: and the Firmament ſheweth his handy work.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> Day unto day uttereth ſpeech; and night un<g ref="char:EOLhyphen"/>to night ſheweth knowledge.</hi> And this is a way in which God hath <hi>taught</hi> all Mankind at once; for as it there follows,
+<note place="margin">Ver. 3,</note> 
+               <hi>There is no ſpeech nor language, where their voice is not heard.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>Their line is gone out through all the earth, and their words to the end
+<pb n="9" facs="tcp:54294:7"/>of the World.</hi> And therefore the Apoſtle juſtly pronounces them inexcuſable, who have not by this way of inſtruction attain'd to the knowledge of God. <hi>That which may be known of God,</hi>
+               <note place="margin">Rom. 1.19.</note> ſaith he, <hi>is manifeſt among them,</hi> that is, among the Heathens; <hi>for God hath ſhewed it unto them.</hi>
+               <note place="margin" type="runSum">20.</note>
+               <hi>For the inviſible things of him from the creation of the world are clearly ſeen, being underſtood by the things that are made, even his eternal Power and Godhead; ſo that they are without excuſe;</hi> thoſe namely who do not by this inſtruction from the <hi>viſible</hi> World, diſcern <hi>the inviſible things of God.</hi>
+            </p>
+            <p>God hath taught men alſo by the Suggeſtions and Dictates of their own Minds.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+            </p>
+            <p>Nor will this be denied by any, who ſeriouſly own a God and a Providence; <hi>viz.</hi> that there is in man a power of Underſtanding and Reaſoning, which he hath receiv'd from God in the very frame of his Nature, whereby he is inabled to diſcern the Being, and in ſome meaſure to know the Will of his Maker; as alſo a Conſcience, whereby he reflects upon his own behaviour, and is either pleas'd or diſpleas'd with himſelf, and fill'd with Hopes or Fears, according as he acts agreeably or diſagreeably to the judgment of his own Mind.</p>
+            <p>Whether there are innate Ideas in the Souls of Men; or whether only we are capacitated in the uſe of our Faculties to form ſuch conceptions as theſe, and ſo framed that we naturally do it, is not material, as to the ſubject I am now upon. It is enough, if this be any way the reſult of our
+<pb n="10" facs="tcp:54294:8"/>Frame and Conſtitution; for then it muſt be one of the ways in which God, who is the Author of our Beings, hath given us Inſtruction. And this again cannot be expreſt better, than in the words of St.
+<note place="margin">Rom. 2.14,</note> 
+               <hi>Paul; When the Gentiles,</hi> ſayes he, <hi>which have not the Law, do by nature the things con<g ref="char:EOLhyphen"/>tain'd in the Law, theſe having not the Law are a Law unto themſelves,</hi>
+               <note place="margin">Ver. 15.</note> 
+               <hi>which ſhew the work</hi> (or mat<g ref="char:EOLhyphen"/>ter) <hi>of the Law written in their hearts, their Con<g ref="char:EOLhyphen"/>ſcience alſo bearing Witneſs, and their thoughts be<g ref="char:EOLhyphen"/>tween themſelves accuſing or elſe excuſing one ano<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>God may be ſaid farther to have <hi>taught</hi> men,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> by ſome extraordinary Perſons rais'd up by Providence, and qualified to inſtruct others.</p>
+            <p>Such we Chriſtians believe the Patriarchs, to<g ref="char:EOLhyphen"/>gether with <hi>Moſes</hi> and the Prophets to have been, namely Perſons raiſed up on purpoſe, and ſome of them ſent with a ſpecial Commiſſion from God, to teach men. But becauſe in theſe Diſcourſes we are to take no more for granted, than thoſe we have to do with will allow, I ſhall aſſert no more under this head, than what will be acknow<g ref="char:EOLhyphen"/>ledg'd by every ſerious Deiſt, <hi>viz.</hi> that there have been in all ages Perſons of more enlarg'd and im<g ref="char:EOLhyphen"/>prov'd Underſtandings, and more refin'd Morals than the Vulgar, who have both by their diſ<g ref="char:EOLhyphen"/>courſes, and writings, and practices inſtructed o<g ref="char:EOLhyphen"/>ther men with reſpect to Divine and Spiritual Matters. Such particularly we know there were, not inconſiderable for their Number, and of very great Reputation, both among the <hi>Greeks</hi> and
+<pb n="11" facs="tcp:54294:8"/>
+               <hi>Romans,</hi> ſome of which have by their Writings tranſmitted to us their conceptions concerning God and Providence, and the difference between Moral Good and Evil, as alſo the ſpirituality and immortality of the humane Soul, and at leaſt the high probability of a future ſtate of retributi<g ref="char:EOLhyphen"/>on, of all which they have diſcourſt admirably well.</p>
+            <p>And of this rank we may at leaſt reckon the Patriarchs mention'd in the Old Teſtament, who practis'd, and taught the Worſhip of the One true God, the Maker of Heaven and Earth, and gave an Example of Virtuous Lives and Converſations; as alſo <hi>Moſes,</hi> the great Law giver among the <hi>Jews,</hi> who particularly inculcated this prime Doctrine of Religion, that there is but one God, the Creator and Governor of all, and gave abundance of Ex<g ref="char:EOLhyphen"/>cellent Moral Precepts, beſides the Ceremonial, to that People; as likewiſe the Prophets which ap<g ref="char:EOLhyphen"/>pear'd in that Nation, and made it their buſineſs to preach up the Doctrines of Piety, and Virtue. Whoever owns a Providence, and allows the difference between Moral Good and Evil, muſt and will grant that ſuch men as theſe, wherever they were to be found, were the Inſtruments of Provi<g ref="char:EOLhyphen"/>dence, for inſtructing and improving their fellow<g ref="char:EOLhyphen"/>creatures, and conſequently that this was another way of <hi>God's teaching</hi> men.</p>
+            <p>God may alſo be ſaid to have <hi>taught</hi> men, by the ſecret Motions and Influences of his Holy Spirit upon their Minds.</p>
+            <pb n="12" facs="tcp:54294:9"/>
+            <p>This I am well ſatisfied the Holy Scriptures do aſſert throughout, and 'tis, in part at leaſt, this kind of <hi>teaching,</hi> which thoſe paſſages in the Books of the Prophets, referr'd to by our Saviour in the Text, ſeem to mean; neither is it any more than what I think thoſe whom we have to do with in this Controverſie will allow.</p>
+            <p>There is indeed nothing more reaſonable to be believ'd of God, even without a Revelation, than that he who form'd our Spirits, which are finite, and intirely dependent upon their Maker, ſhould be at all times ready to influence them in a way proper to their make, converſing himſelf intimately with them, enlightning thoſe underſtandings which he hath given us, by rays darted from himſelf, the Fountain of Light, ſecretly admoniſhing and aſſiſt<g ref="char:EOLhyphen"/>ing our Souls, according as they apply themſelves to him, and become capable of receiving Influences from him.</p>
+            <p>This is well expreſt by <hi>Elihu</hi> in <hi>Job,</hi> who being ſuppos'd not to have been of the race of <hi>Iſrael,</hi> may be reckon'd to have ſpoken in the perſon of a Deiſt;
+<note place="margin">Job 32.8.</note> 
+               <hi>There is,</hi> ſays he, <hi>a ſpirit in man, and the Inſpiration of the Almighty giveth them underſtand<g ref="char:EOLhyphen"/>ing.</hi> But we need not ſearch nicely for a Proof, that this has been the ſenſe of thoſe, who have been only under the diſpenſation of meer Nature, and nor enlighten'd by Revelation. 'Tis well known to all that are acquainted with the Writings of the Philoſophers, that this is frequently acknowledg'd by them.
+<note place="margin">Cic. <hi>de nat. Deor.</hi> l. 2.</note> 
+               <hi>Nemo vir magnus ſine aliquo afflatû di<g ref="char:EOLhyphen"/>vino unquam fuit,</hi> is a famous ſaying of <hi>Cicero</hi>'s, <hi>There was never yet any great Man, but who had
+<pb n="13" facs="tcp:54294:9"/>ſomething of divine Inſpiration,</hi> in which he deli<g ref="char:EOLhyphen"/>ver'd not his own ſenſe only, but that of Man<g ref="char:EOLhyphen"/>kind. <hi>Socrates</hi> is likewiſe famous for his pretend<g ref="char:EOLhyphen"/>ing to a conſtant, at leaſt very frequent direction and influence from the Deity, who I think, if any other among the Pagan Philoſophers, may be fair<g ref="char:EOLhyphen"/>ly allow'd ſuch a pretence.</p>
+            <p>And it is no Objection againſt this way of <hi>God's teaching,</hi> that we cannot tell in what manner he influenceth our Spirits, any more than it is againſt his having made us, that we are wholly ignorant how we were formed by him.</p>
+            <p>This may ſuffice to be ſpoken to the <hi>firſt</hi> par<g ref="char:EOLhyphen"/>ticular I propos'd, I proceed to the next, <hi>viz.</hi> to conſider,</p>
+            <p>Who they are,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/> that may be ſaid to have <hi>heard and learn'd of the Father,</hi> in order to their receiving any new Revelation from him. <hi>Every man there<g ref="char:EOLhyphen"/>fore that hath heard and learn'd,</hi> &amp;c.</p>
+            <p>To this I anſwer in the General, Thoſe men have <hi>heard and learn'd of the Eather,</hi> in order to this end, who have attended to the Inſtructions given them by God, in any of the <hi>four</hi> ways a<g ref="char:EOLhyphen"/>bove-mentioned, and have improv'd them to the benefit of their Spirits. But more particularly they may be reduced to theſe <hi>two</hi> following ſorts.</p>
+            <p>Thoſe who have attain'd to worthy apprehenſi<g ref="char:EOLhyphen"/>ons concerning God and natural Religion.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+            </p>
+            <p>Thoſe who have together with theſe apprehen<g ref="char:EOLhyphen"/>ſions
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <pb n="14" facs="tcp:54294:10"/>fixt in their Minds an honeſt purpoſe and reſolution to act agreeably to them.</p>
+            <p>By taking a ſhort view of theſe <hi>two</hi> particulars, we ſhall eaſily perceive, both that theſe are the reſults of <hi>God's teaching</hi> men, and that they are each of them preparatory to the receiving farther communications from him.</p>
+            <p>Such men have <hi>heard and learn'd of the Father,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> who have attain'd to worthy apprehenſions con<g ref="char:EOLhyphen"/>cerning God and Natural Religion.</p>
+            <p>By worthy apprehenſions of God, I meah, that they ſhould conceive of him, as a Being infinite in all Perfection, and particularly in thoſe we call the Moral Perfections of the Divine Nature, com<g ref="char:EOLhyphen"/>monly expreſt by the general term of <hi>Holineſs,</hi> comprehending the Truth, the Juſtice, and the Goodneſs of God; that they ſhould think of him, as the Original of all Being, the great Maker and Preſerver of the World, and the Supreme Lord and Governour of it; that they ſhould look upon him as the great Parent of the intellectual part of the Univerſe, who hath a tender care of and con<g ref="char:EOLhyphen"/>cern for this his Off-ſpring; that they ſhould ap<g ref="char:EOLhyphen"/>prehend him to be a Being infinitely good to all his Works, and eſpecially propitious to thoſe his Creatures, who have always retain'd, or are wil<g ref="char:EOLhyphen"/>ling to return to the temper of dutiful and obe<g ref="char:EOLhyphen"/>dient children; who, as on the one hand he will not ſuffer his Laws to be violated, and his Au<g ref="char:EOLhyphen"/>thority contemn'd, without making the Tranſgreſ<g ref="char:EOLhyphen"/>ſors ſenſible and afraid of his diſpleaſure; ſo on the other hand alſo he will be ready to compaſſionate in
+<pb n="15" facs="tcp:54294:10"/>all compaſſionable caſes, and to make all ſuch allow<g ref="char:EOLhyphen"/>ances as are proper to be made by a Creator to his Creatures.</p>
+            <p>By worthy apprehenſions of natural Religion, I mean, that they ſhould ſee and acknowledge the eternal and immutable difference between moral good and evil, together with the neceſſary and in<g ref="char:EOLhyphen"/>diſpenſable Obligation a reaſonable creature is un<g ref="char:EOLhyphen"/>der to chuſe the one, and refuſe the other; that they ſhould diſcern the fitneſs of yielding Reve<g ref="char:EOLhyphen"/>rence, and Love, Worſhip, and Obedience to our Maker; of exerciſing Juſtice and Charity one to<g ref="char:EOLhyphen"/>wards another; of ſubjecting our Fleſh to our Spirits; and reducing our Appetites and Paſſions under the direction and government of Underſtand<g ref="char:EOLhyphen"/>ing and Reaſon; of improving our Minds, as our principal part, and uſing our ſeveral Faculties ac<g ref="char:EOLhyphen"/>cording to the nature and deſign of each of them. Theſe I take to be worthy apprehenſions of God and natural Religion, and ſuch as will be entertain'd by all thoſe, who are <hi>taught of God,</hi> and have not only <hi>heard,</hi> but <hi>learn'd of the Father.</hi>
+            </p>
+            <p>And whoſoever hath theſe Apprehenſions well ſettled in his Mind, will be always ready to em<g ref="char:EOLhyphen"/>brace a Doctrine which comes from God, and ap<g ref="char:EOLhyphen"/>proves it ſelf to be worthy of him; he will be apt to entertain a Revelation as Divine, which renders all the Attributes of God conſpicuous and illuſtri<g ref="char:EOLhyphen"/>ous; he will diligently liſten to, and eaſily believe a fair account of the Goodneſs of God to the apo<g ref="char:EOLhyphen"/>ſtate children of men, reconcil'd with his Wiſdom and Juſtice in governing the World; and he will heartily approve an Inſtitution, which throughly
+<pb n="16" facs="tcp:54294:11"/>explains and heightens the Obligations which rea<g ref="char:EOLhyphen"/>ſonable Creatures are under to all that is truly good and praiſe-worthy; that is, he will be well diſpos'd to become a Chriſtian, theſe being (as I hope here<g ref="char:EOLhyphen"/>after to ſhew) the juſt Characters of Chriſtianity.</p>
+            <p>Upon this ground it was, that our Lord gave his approbation to the Judgment of the Scribe, upon his ſaying there was <hi>one God,</hi>
+               <note place="margin">Mark 12.32, 33, 34.</note> and that for a Man <hi>to love this God with all his heart, and to love his Neighbour as himſelf,</hi> was <hi>more than all whole burnt-offerings and ſacrifices.</hi> The Text ſays, that <hi>when Jeſus ſaw that he anſwer'd diſcreetly, i. e.</hi> when he diſcover'd ſo juſt apprehenſions of God, and the nature of Religion in general, <hi>he ſaid unto him, Thou art not far from the Kingdom of God;</hi> as far as his Judgment went at leaſt, he was almoſt a Diſciple of Chriſt, being well diſpos'd to entertain the Doctrine which he taught. But then,</p>
+            <p>There muſt be added to this,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> that thoſe who have <hi>heard and learn'd of the Father,</hi> have together with theſe Apprehenſions fixt in their Minds an honeſt purpoſe and reſolution to act agreeably to them.</p>
+            <p>The perfection of a reaſonable creature conſiſts in the regularity of his Will and Affections, as much at leaſt, if not more than in the improvement of his Underſtanding. Nay the very uſe of any in<g ref="char:EOLhyphen"/>formation given to the Underſtanding is, that it may direct and influence the Will and Affections of the Man; and conſequently the great deſign of all <hi>God's teaching,</hi> which is without queſtion in<g ref="char:EOLhyphen"/>tended to perfect our Natures, is to improve the
+<pb n="17" facs="tcp:54294:11"/>temper and diſpoſition of our Souls; ſo that no man can be ſaid to have <hi>heard and learn'd of the Father,</hi> till he have form'd his temper by the know<g ref="char:EOLhyphen"/>ledge which is imparted to him from God, and reduc'd his Notions to practice. All the Truths of God are to be <hi>receiv'd in the love of them,</hi> and the end of their communication is, that we may yield our ſelves to be directed by them; and he that is arriv'd thus far, has <hi>heard and learn'd of the Father,</hi> in the full ſenſe of that Expreſſion; and after this, can want nothing more towards the en<g ref="char:EOLhyphen"/>tertaining any new Revelation from God, than a fair propoſal of it to him.</p>
+            <p>This is agreeable to what our Saviour hath told us, and what is evident from the nature of the thing, that <hi>If any man will do the will of God,</hi>
+               <note place="margin">Joh. 7.17.</note> 
+               <hi>he ſhall know of his Doctrine, whether it be of God, or whether he ſpake of himſelf.</hi> And this 'tis likely was wanting in the Scribe before-mention'd, whom our Saviour declar'd <hi>not to be far from the King<g ref="char:EOLhyphen"/>dom of God.</hi> Had he added to his juſt apprehenſi<g ref="char:EOLhyphen"/>ons of Divine truths, a full purpoſe of mind to yield to their influence, he would not only have <hi>approach'd,</hi> but <hi>enter'd</hi> into the Kingdom.</p>
+            <p>And here in truth lies the main difficulty with moſt men. Their Apprehenſions would be more eaſily ſet right, if their Wills and Affections were but ſubdued: but this latter requiring ſome pains, they too often make their Judgments comply with their Inclinations, and ſuffer their Wills and Affe<g ref="char:EOLhyphen"/>ctions to conduct their Underſtandings.</p>
+            <p>It may therefore be worth the while enquire
+<milestone type="tcpmilestone" unit="unspecified" n="III"/>
+               <pb n="18" facs="tcp:54294:12"/>once more, What Qualifications are requiſite, both to <hi>the hearing and learning of the Father,</hi> and <hi>com<g ref="char:EOLhyphen"/>ing to the Son,</hi> which was the <hi>laſt</hi> particular I propos'd to be conſider'd.</p>
+            <p>I ſhall mention only the <hi>three</hi> following.</p>
+            <p>A ſerious and compos'd temper of Spirit.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+            </p>
+            <p>A good degree of Humility.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+            </p>
+            <p>Purity of Heart.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+            </p>
+            <p>A ſerious and compos'd temper of Spirit.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+            </p>
+            <p>This is a Qualification neceſſary in order to pro<g ref="char:EOLhyphen"/>ficiency in any other ſort of learning, that is of conſiderable uſe; and much more is it ſo, where God is the Teacher, and Religion the Subject of the Enquiry.</p>
+            <p>God is a great Being, infinitely above us; the thoughts of his Majeſty are ſufficient to ſtrike an awe into our Minds. He is perfectly pure and holy, he hath full Authority to command us, and an irreſiſtible Power, as well as an un<g ref="char:EOLhyphen"/>doubted right to govern and controll us; and our Happineſs depends intirely upon his favour.</p>
+            <p>Religion is the ſolemn Obligation we acknow<g ref="char:EOLhyphen"/>ledge our ſelves to be under to this excellent Being, whereby we are inſtructed in his Will, and en<g ref="char:EOLhyphen"/>gag'd to comply with it; and the Chriſtian Reli<g ref="char:EOLhyphen"/>gion in particular pretends to be an improvement of that which is natural.</p>
+            <p>Now theſe are matters of the greateſt Weight, and higheſt Concernment to us, and conſequently ſuch as require the moſt ſedate temper of Mind in thoſe who are converſant about them.</p>
+            <pb n="19" facs="tcp:54294:12"/>
+            <p>Beſides that the ways in which <hi>God teacheth</hi> men are ſuch as make a very ſerious attention neceſſary. 'Tis remarkable, that when our bleſſed Saviour had in the Text mention'd <hi>hearing and learning of the Father,</hi> he adds in the very next words, <hi>Not that any man hath ſeen the Father,</hi> intimating thereby that we do not learn of God, as one man learns of another. No, 'tis by ſerious contemplation of his Works; by frequent retiring into our own Souls, exerciſing and conſulting the beſt of our Faculties, thoſe I mean of Underſtanding, and Reaſon, and Conſcience; 'tis by looking out for thoſe who are wiſer and better than our ſelves, and attending to what they ſhall impart to us of their knowledge in Divine matters; and finally 'tis by cheriſhing and improving the ſecret Motions and Influences of the good Spirit of God, and in a due exerciſe of our Faculties, together with a ſerious applica<g ref="char:EOLhyphen"/>tion to God, preparing our ſelves for the reception of his communications.</p>
+            <p>How then is it likely, that a man of a fantaſtical, airy and unthinking temper, ſhould <hi>hear and learn of the Father,</hi> or <hi>come to the Son!</hi> 'Tis not in the leaſt probable, that ſuch an one ſhould apply himſelf to the conſideration of theſe ſerious Subjects, or give that attention of Mind which is proper; nor can it be thought, that the Holy Spirit of God ſhould attend ſuch light and unſettled minds.</p>
+            <p>Another Qualification for <hi>hearing and learning of the Father</hi> is,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> a good degree of Humility.</p>
+            <p>It becomes a Learner in general to give a defe<g ref="char:EOLhyphen"/>rence
+<pb n="20" facs="tcp:54294:13"/>to the judgment and authority of thoſe who inſtruct him; much more is it fit that thoſe who would <hi>learn of God,</hi> ſhould attend to his Inſtru<g ref="char:EOLhyphen"/>ctions with the greateſt Humility that is poſſible. They ſhould have thoſe mean thoughts of them<g ref="char:EOLhyphen"/>ſelves which become Creatures, when they are learning of their Maker. They ſhould remember that their Minds are finite and narrow, that their apprehenſions of things are very imperfect at the beſt, that they are fallible, nay exceeding liable to be miſtaken of themſelves, and conſequently do ſtand in need of the conſtant direction and gui<g ref="char:EOLhyphen"/>dance of the firſt and great Mind. They ſhould conſider farther, that they are altogether unworthy of ſuch a favor, as to be <hi>taught of God,</hi> foraſmuch as they cannot but be conſcious of very great diſorder in their Natures, too much indiſpoſition to do, and conſequently to know the Will of God. All theſe conſiderations will be apt to make them humble, and thereby diſpoſe them <hi>to hear and learn of the Father.</hi>
+            </p>
+            <p>For by this means they will be brought to ac<g ref="char:EOLhyphen"/>knowledge the reaſonableneſs of thoſe great du<g ref="char:EOLhyphen"/>ties, which natural Religion enjoyns, <hi>viz.</hi> ſub<g ref="char:EOLhyphen"/>mitting and reſigning their Wills intirely to the Will of their Sovereign Lord; being well con<g ref="char:EOLhyphen"/>tented with his diſpoſal, and fully ſatisfied with that ſhare of the good things of life, which he is pleas'd to allow them; depending upon him, and acknowledging him in all their ways; as alſo demeaning themſelves towards other men with a regard due to thoſe of the ſame nature with them<g ref="char:EOLhyphen"/>ſelves, however they may differ from them in ſome accident reſpects.</p>
+            <pb n="21" facs="tcp:54294:13"/>
+            <p>And by the ſame means they will be diſpos'd alſo <hi>to come to the Son of God,</hi> whoſe Inſtituti<g ref="char:EOLhyphen"/>on lays before us abundance of humbling conſi<g ref="char:EOLhyphen"/>derations, drawn from the weakneſs and cor<g ref="char:EOLhyphen"/>ruption of humane Nature, as well as from the guilt we have contracted; and gives us in charge ſuch Precepts as cannot poſſibly conſiſt with pride or haughtineſs of ſpirit, ſuch as condeſcending to thoſe of the loweſt rank for their good, bearing affronts, forgiving injuries, returning good for evil, and the like; upon which account our Lord ſaw it fit to forewarn thoſe that pretended to be his Diſciples, that one neceſſary condition of being ſo, was <hi>to humble themſelves,</hi>
+               <note place="margin">Mat. 18.3, 4.</note> and <hi>become as little children.</hi>
+            </p>
+            <p>Nay farther, this Humility will diſpoſe thoſe who are endued with it, to allow, that God may poſſibly reveal to us ſome Truths of concernment and uſe, which we could not have found out our ſelves, and which when diſcover'd in part, we may not be able fully to graſp and comprehend; as well as he may oblige us to ſome Duties, which may lie croſs to certain inclinations and propenſions that we may have contracted, which duties may notwithſtanding be very reaſonable in themſelves and good for us. A competent degree of Humi<g ref="char:EOLhyphen"/>lity will diſpoſe us to think on this manner; and conſequently will render us capable of Divine In<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Which it will yet farther do, by qualifying us to partake of the Illumination and Aſſiſtance of the Spirit of that God, who, as we are aſſured both by
+<pb n="22" facs="tcp:54294:14"/>Scripture and Reaſon,
+<note place="margin">Pet. 5.5.</note> 
+               <hi>reſiſteth the proud; but giveth Grace to the humble.</hi>
+            </p>
+            <p>The laſt Qualification I mention'd was Purity of Heart;
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> by which I mean, not only a freedom from guile and hypocriſie, but alſo, in a good degree from all thoſe other vitious habits, that defile the Soul, and particularly a being ſo far diſ-entangled from ſenſual and worldly inclinations, that the mind may be tolerably at liberty in it's ſearches after truth, having no ſtrong byas upon it to in<g ref="char:EOLhyphen"/>cline it the wrong way, nothing whereby the Un<g ref="char:EOLhyphen"/>derſtanding muſt be unavoidably blinded, or the judgment diſtorted.</p>
+            <p>'Tis acknowledg'd by every ſerious Deiſt, that as God is a pure and holy Being, ſo the deſign of true Religion is to render us like to him, and con<g ref="char:EOLhyphen"/>ſequently to refine and purifie our Spirits, by rai<g ref="char:EOLhyphen"/>ſing us above the things of ſenſe and this preſent life. And this we Chriſtians affirm to be the great deſign of that Religion which we profeſs. Now nothing can make us more indiſpoſed to <hi>hear and learn</hi> either of <hi>the Father</hi> or <hi>the Son,</hi> than ſtrong habits of Vice indulg'd by us, or, which comes to the ſame iſſue, being deeply immerſt in the ſenſual and animal life. This was the reaſon why <hi>Ariſtotle</hi> pronounc'd young men unfit to hear Lectures in moral Philoſophy, namely becauſe of the vehe<g ref="char:EOLhyphen"/>mency of their ſenſual inclinations and paſſions. Chriſtianity, in confidence of its reaſonableneſs, together with the aſſiſtance and ſtrength it offers, propoſes it ſelf to every age, as well as each con<g ref="char:EOLhyphen"/>dition of men: but ſtill this muſt be own'd, that
+<pb n="23" facs="tcp:54294:14"/>by how much the more ſenſual or worldly-minded any man is, by ſo much the more he is in danger of having his Underſtanding byas'd in his enquiries after the truths of Religion. 'Tis an uneaſie thing to own a truth, which directly oppoſes it ſelf to the bent of our inclinations; and therefore a man that is reſolvedly vitious, will rather chuſe to have his underſtanding mifled, and his judgment brib'd, than yield his aſſent to ſuch truths, as he very well knows would prove a conſtant vexation to his Spirit.</p>
+            <p>Beſides, that as in the former inſtances, ſo here alſo, it cannot be expected that the Holy Spirit of God, by whom the minds of all good men are il<g ref="char:EOLhyphen"/>luminated and aſſiſted in their ſearches after divine knowledge, ſhould co-habit or co-operate with a ſoul groſly impure and vitious.</p>
+            <p>Thus I have diſpatch'd the <hi>three</hi> particulars I at firſt propos'd, and the ſum of what I have been ſaying is in ſhort this; That whoſoever will take upon him to judge of the truth of reveal'd Reli<g ref="char:EOLhyphen"/>gion, or <hi>that</hi> which pretends to be ſo, ought to be a man, who has firſt well conſider'd, and yielded to the convictions of <hi>that</hi> which is natural; and that there are certain Qualifications neceſſary in or<g ref="char:EOLhyphen"/>der to the conſidering and entertaining either natu<g ref="char:EOLhyphen"/>ral Religion, or reveal'd.</p>
+            <p>The application I would make of the whole ſhall be only in <hi>two</hi> words.</p>
+            <p>I infer that if any perſon,
+<milestone type="tcpmilestone" unit="unspecified" n="I"/> who is not furnish'd
+<pb n="24" facs="tcp:54294:15"/>with the Qualifications above-mention'd in a good degree, and for want of them hath not been <hi>taught of God,</hi> ſhall yet take upon him to deny the truth of the Chriſtian Religion, he is to be neglected as one that is no competent Judge in this diſpute. Jeſus Chriſt may be the Son of God, and the Savi<g ref="char:EOLhyphen"/>our of Mankind, and his Religion may have had its original from Heaven, as we Chriſtians profeſs heartily to believe, for any thing ſuch a man knows, or can know to the contrary.</p>
+            <p>'Tis therefore remarkable what I hinted in the beginning of this diſcourſe, that our bleſſed Savi<g ref="char:EOLhyphen"/>our doth upon all occaſions aſcribe the unbelief of his Hearers to the indiſpoſition of their tempers, to their pride and vain-glory, their ſenſuality and love of the preſent World, their ignorance of God and of the nature of Religion in general, to their af<g ref="char:EOLhyphen"/>fected blindneſs, and the wilful hardneſs of their hearts; and the Apoſtles likewiſe do the ſame.</p>
+            <p>And in like manner, if Infidelity has prevail'd in a high degree in the Age and Nation in which we live, we may by a very little obſervation find out the true grounds and reaſons of it.</p>
+            <p>A conſiderable number of thoſe who reject Chri<g ref="char:EOLhyphen"/>ſtianity, do at the ſame time openly expreſs their contempt of all Religion in general; and not only ſo, but even of every thing that is ſerious and of weight in humane life. They are men of light and inconſiderate tempers, who very hardly admit of any ſerious thoughts even about the common affairs of the World; Such whoſe time is waſted in ſport and luxury, who have never improv'd or exerciſed their higher Faculties, according to the deſign of
+<pb n="25" facs="tcp:54294:15"/>their Natures, nor furniſh'd their Heads with any ſolid materials to think upon.</p>
+            <p>There are others who are not it may be altoge<g ref="char:EOLhyphen"/>ther ſo airy and unthinking; but yet being through<g ref="char:EOLhyphen"/>ly vitious, violently addicted to the gratifying their ſenſual Inclinations, or deeply engag'd in the love and purſuit of this vain World, however ſerious and compos'd they may ſometimes be, when they concern themſelves about ſecular affairs, they put the thoughts of God and Religion far from them; as creating uneaſineſs to their Minds, diſturbing and interrupting them in their Enjoyments, and rai<g ref="char:EOLhyphen"/>ſing continual ſcruples and doubts and fears within them.</p>
+            <p>There are ſome few beſides, not to be reduc'd to either of the former ranks, who yet by their ſupercilious, and ſcornful way of treating reveal'd Religion, diſcover ſuch a degree of haughtineſs and ſelf-conceit, ſuch a vain opinion of their own Un<g ref="char:EOLhyphen"/>derſtandings and ways of thinking, and ſuch a ſcorn and difdain with reſpect to all that ſhall preſume to differ from them, as plainly ſhews them not at all to be under the government of that Re<g ref="char:EOLhyphen"/>ligion which is natural.</p>
+            <p>Now whenever the Queſtion is concerning the truth of Chriſtianity, it cannot with any ſhew of reaſon be referr'd to theſe mens Judgments. They are either wholly unconcern'd in the mat<g ref="char:EOLhyphen"/>ter, or too evidently prejudic'd to judge impar<g ref="char:EOLhyphen"/>tially; ſo that there lies an Appeal from them to the more ſerious, modeſt, humble and honeſt part of Mankind.</p>
+            <pb n="26" facs="tcp:54294:16"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> I would ſeriouſly admoniſh theſe ſorts of men (if there be any ſuch that now hear me) both of the Unreaſonableneſs and the Danger of the courſe they take.</p>
+            <p>'Tis altogether unreaſonable for them to pre<g ref="char:EOLhyphen"/>tend to paſs their cenſure upon what is not with<g ref="char:EOLhyphen"/>in their cogniſance, what they either never have at all conſider'd, or never yet were in a temper fit to think of.</p>
+            <p>And 'tis extremely dangerous, becauſe that tem<g ref="char:EOLhyphen"/>per which renders them unfit to conſider and judge in this caſe is vitious in a notorious degree. Le<g ref="char:EOLhyphen"/>vity and Pride, Impurity and Diſhoneſty, are ſome of the groſſeſt ſtains, and vileſt reproaches of humane Nature. If any man apprehend, not aright of God, and of natural Religion, eſpecially when he has had great advantages for his inſtru<g ref="char:EOLhyphen"/>ction, if he have refus'd or neglected to exerciſe his Faculties upon theſe ſubjects, or if having at<g ref="char:EOLhyphen"/>tain'd to juſt apprehenſions, he yet <hi>withholds the truth in unrighteouſneſs,</hi> ſuch a man lives and acts beſides the great deſign and end of his Nature, and muſt neceſſarily be accountable to his Maker, firſt for not approving himſelf a <hi>Man;</hi> and in the next place becauſe by that means he fail'd of becoming a <hi>Chriſtian.</hi>
+            </p>
+            <p>To conclude, it ſeems not in the leaſt unworthy of God, to offer ſuch a Revelation to Men, and in ſuch a way and manner, as that it ſhall prove a <hi>Teſt,</hi> to try and diſtinguiſh their Tempers, ſo that if they are but tolerably ſerious, humble, and honeſt, they will be apt to diſcern it's evidence and
+<pb n="27" facs="tcp:54294:16"/>follow it's directions, they will (according to our Lord's expreſſion) <hi>juſtifie God,</hi>
+               <note place="margin">Luk. 7.29,</note> by complying with his deſign; but if they are of the contrary tem<g ref="char:EOLhyphen"/>per, they will <hi>fruſtrate the counſel of God,</hi>
+               <note place="margin" type="runSum">30.</note>intended for their good: if they are of the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the well-diſpos'd towards eternal life,</hi>
+               <note place="margin">Acts 13.48,</note> they will <hi>be glad, and glorifie the word of the Lord;</hi> but if they are otherwiſe diſpos'd,
+<note place="margin">Ver. 45, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> they will perhaps <hi>con<g ref="char:EOLhyphen"/>tradict and blaſpheme,</hi> at leaſt they will <hi>put away the word of God from them, and judge themſelves un<g ref="char:EOLhyphen"/>worthy of everlaſting life.</hi> This I take to be the caſe of the Chriſtian Revelation; ſo that it is of great concernment to thoſe who will enquire into the truth of it, to examine well <hi>what Spirit they are of.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:54294:17"/>
+            <head>BOOKS <hi>Printed for</hi> Thomas Parkhurſt, <hi>at the</hi> Bible <hi>and</hi> Three Crowns <hi>in</hi> Cheapſide, <hi>near</hi> Mercers-Chappel.</head>
+            <p>FOrty Nine Sermons on the whole Epiſtle of the Apoſtle <hi>Paul</hi> to the <hi>Coloſſians</hi> by Monſieur <hi>Daille,</hi> Miniſter of the Reformed Church in <hi>Paris.</hi> Folio.</p>
+            <p>A Treatiſe of Knowledge and Love in Two Parts. By Mr. <hi>Richard Baxter,</hi> Quarto.</p>
+            <p>The Poor Mans Help, and Young Mans Guide. Octavo.</p>
+            <p>An Argumentative and Practical Diſcourſe of Infant Baptiſm, in which the Lawfulneſs is demon<g ref="char:EOLhyphen"/>ſtrated, Objections anſwer'd, Uſefulneſs aſſerted, the Sinfulneſs of Re baptizing manifeſted, Non<g ref="char:EOLhyphen"/>neceſſity of Dipping evidenced, and the Practical Uſe of Infant Baptiſm Urged and Inforced. Both by <hi>William Burkitt,</hi> M. A. of <hi>Pembrook Hall</hi> in <hi>Cambridge;</hi> now Vicar of <hi>Dedham</hi> in <hi>Eſſex.</hi> Octavo.</p>
+            <p>Sermons and Diſcourſes on ſeveral Divine Sub<g ref="char:EOLhyphen"/>jects. By the late Reverend and Learned <hi>David Clarkſon,</hi> B. D and ſometime Fellow of <hi>Clare-Hall, Cambridge.</hi> Folio.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
